@@ -1,0 +1,30 @@
+{
+  "name": "nftpromanagementbot",
+  "version": "1.0.0",
+  "description": "Manage promotions and campaigns with a powerful management bot, automating marketing tasks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neonerd0mg/nftpromanagementbot"
+  },
+  "author": "neonerd0mg",
+  "license": "MIT",
+  "dependencies": {
+    "nftpromanagementbot": "1.0.0",
+    "nftpromanagementbot-use": "1.0.0",
+    "commander": "1.0.0",
+    "moment": "1.0.0",
+    "node-sass": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "validator": "1.0.0",
+    "web3": "1.0.0",
+    "web3-utils": "1.0.0",
+    "firebase": "1.0.0",
+    "bcrypt": "1.0.0",
+    "xml2js": "1.0.0",
+    "dotenv": "1.0.0"
+  }
+}
